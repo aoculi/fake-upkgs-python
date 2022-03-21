@@ -1,0 +1,5 @@
+{
+	"scripts": {
+		"execute": "python index.py"
+	}
+}
